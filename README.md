@@ -1,7 +1,19 @@
-# twine
+# About
 
-Twine is a revival of the popular social networking app, vine. It's a single project operated by a single person. I'm looking forward to adding multiple updates and more.
+Twine is a revival of the known social network app, Vine. Using similar source code, we are trying to re-create the experience and fun.
 
-Thank you!
+# Features
 
-~Alex Way
+Most features will be similar to vine's. 7 second video loops, a like and share system, etc. 
+
+# Updates
+
+This is where most updates are posted!
+
+>Twine is still developing<
+
+# Contact
+
+Want to contact me? E-mail me anytime at iffybyte@gmail.com
+
+C'ya!

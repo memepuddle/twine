@@ -10,7 +10,7 @@ Most features will be similar to vine's. 7 second video loops, a like and share 
 
 This is where most updates are posted!
 
->Twine is still developing<
+>Twine is still developing
 
 # Contact
 
